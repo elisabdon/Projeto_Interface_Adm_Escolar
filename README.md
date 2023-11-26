@@ -1,4 +1,5 @@
-# Projeto-Interface
+# Interface - Administraçõa escolar
+
 Projeto prático do segundo semestre de Engenharia da Computação da matéria de **Programação 2** do [Centro Universitário do Estado do Pará](https://www.cesupa.br/).
 
 <p align="center">
